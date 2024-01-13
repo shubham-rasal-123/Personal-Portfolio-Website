@@ -13,8 +13,4 @@ Running the script is simple! run the following command:
 Added vs code extension Go Live [here](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
 
 ## 📺 Demo
-
-![]
-![]
-![]
-![]
+Personal Portfolio Website [here](https://personalportfoliowebsite02.netlify.app/)
