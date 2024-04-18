@@ -13,8 +13,3 @@ Running the script is really simple! run the following command:
 Added vscode extension Go Live [here](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
 
 ## 📺 Demo
-
-![/home/shubham/Screenshot from 2024-01-13 21-42-58.png]
-![/home/shubham/Screenshot from 2024-01-13 21-43-19.png]
-![/home/shubham/Screenshot from 2024-01-13 21-43-34.png]
-![/home/shubham/Screenshot from 2024-01-13 21-43-46.png]
